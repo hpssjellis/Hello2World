@@ -30,6 +30,8 @@ Included Plugins:
 
 All code, examples, projects, and other stuff belongs to Cordova PhoneGap.
 
+Check also my blog about PhoneGap 3.0.0: http://teusink.blogspot.nl/2013/07/guide-phonegap-3-android-windows.html
+
 <h2>addphonegapplugins.cmd</h2>
 With this batch file you can easily add plugins to your project.
 

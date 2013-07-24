@@ -42,7 +42,9 @@ With this batch file you can easily add plugins to your project.
 
 The MIT License (MIT)
 
-Copyright (c) 2013 Joram Teusink
+addphonegapplugins.cmd: Copyright (c) 2013 Joram Teusink
+
+Everything else: Copyright (c) 2013 Cordova PhoneGap
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in

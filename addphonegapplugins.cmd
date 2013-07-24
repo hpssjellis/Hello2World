@@ -6,6 +6,8 @@ echo Made by: Teusink.org - Joram Teusink
 echo http://www.teusink.org
 echo http://teusink.blogspot.com
 echo.
+echo Version: 1.0.0 - Date: 2013/07/24
+echo.
 echo Select a plugin to install
 echo  1. device
 echo  2. network-information

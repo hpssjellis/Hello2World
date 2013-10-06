@@ -1,12 +1,12 @@
 pgHelloWorld
 ============
 
-Official HelloWorld app with PhoneGap 3 or higher, featuring all compiled files and plugins. This might come in handy if you don't want to use the CLI.
+Official HelloWorld app with PhoneGap 3 or higher, featuring all compiled files and plugins for Android. This might come in handy if you don't want to use the CLI.
 
 <h2>Contents</h2>
 
 Platforms: Android
-PhoneGap version: 3.0.0
+PhoneGap version: 3.1.0
 
 Included Plugins:
 1. device
@@ -30,12 +30,15 @@ Included Plugins:
 
 All code, examples, projects, and other stuff belongs to Cordova PhoneGap.
 
-Check also my blog about PhoneGap 3.0.0: http://teusink.blogspot.nl/2013/07/guide-phonegap-3-android-windows.html
+Check also my blog about PhoneGap 3 for Android on Windows: http://teusink.blogspot.nl/2013/07/guide-phonegap-3-android-windows.html
 
 <h2>addphonegapplugins.cmd</h2>
 With this batch file you can easily add plugins to your project.
 
 <h2>Changelog</h2>
+
+2013-10-06
+- Second release, based upon PhoneGap 3.1.0.
 
 2013-07-24
 - Initial release, based upon PhoneGap 3.0.0.
